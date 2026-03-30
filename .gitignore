@@ -1,0 +1,6 @@
+client/mitsee_frontend/node_modules/
+client/mitsee_frontend/dist/
+server/node_modules/
+server/uploads/*
+!server/uploads/.gitkeep
+.DS_Store
